@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=Regresi%C3%B3n%20m%C3%BAltiple%20aplicada%2FUnidad_No.%202_Regresion%20m%C3%BAltiple%20aplicada.ipynb)
