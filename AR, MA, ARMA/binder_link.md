@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=AR%2C%20MA%2C%20ARMA%2FUnidad_No.6_Modelos%20AR%2CMA%2C%20ARMA.ipynb)
