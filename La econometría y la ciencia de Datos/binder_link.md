@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=La%20econometr%C3%ADa%20y%20la%20ciencia%20de%20Datos%2FUnidad_No.7_La%20econometr%C3%ADa%20y%20la%20ciencia%20de%20datos.ipynb)
