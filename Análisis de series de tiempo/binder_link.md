@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=An%C3%A1lisis%20de%20series%20de%20tiempo%2FUnidad_No.5_An%C3%A1lisis%20de%20series%20de%20tiempo.ipynb)
