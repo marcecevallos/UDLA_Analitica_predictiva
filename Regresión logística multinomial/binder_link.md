@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=Regresi%C3%B3n%20log%C3%ADstica%20multinomial%2FUnidad_No.%204_Regresion_log%C3%ADstica_multinomial.ipynb)
