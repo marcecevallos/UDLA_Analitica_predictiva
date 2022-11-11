@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marcecevallos/UDLA_Analitica_predictiva.git/main?labpath=Modelos%20para%20datos%20de%20panel%2FUnidad_No.8_Modelos%20para%20datos%20de%20panel.ipynb)
